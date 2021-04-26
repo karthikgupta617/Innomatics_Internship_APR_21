@@ -1,0 +1,19 @@
+  #Question1(hello world)
+
+   print ("Hello, World!")
+
+  #Question2(if else)
+  import math
+if n==odd 
+    print("weird:")
+ else
+  print("not weird:")
+  
+  #question3(arthematic operators)
+    a =2
+    b =3
+    
+print("a+b:")
+print("a-b:")
+print("a*b:")
+  
